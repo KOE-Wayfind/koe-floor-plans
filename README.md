@@ -1,4 +1,4 @@
-# koe-floor-plans
+# KOE Floor Plans
  
 ## E1
 
@@ -7,3 +7,5 @@
 ![ACS E1-L3-Model-1](https://user-images.githubusercontent.com/60868965/214542386-38b698ec-3798-4c50-ab5f-057d55ead1b2.jpg)
 ![ACS E1-L4-Model-1](https://user-images.githubusercontent.com/60868965/214542175-e5c74e1a-44a8-4a9a-a077-26da1b36079a.jpg)
 ![ACS E1-L5-com-Model-1](https://user-images.githubusercontent.com/60868965/214541524-eb39cac5-64ae-414c-ad6d-1fb3fe3ec53b.jpg)
+
+CC Kulliyyah of Engineering, International Islamic University Malaysia
